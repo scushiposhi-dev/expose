@@ -1,4 +1,4 @@
-module expose
+module github.com/scushiposhi-dev/expose
 
 go 1.24.4
 
